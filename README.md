@@ -1,11 +1,9 @@
 # Lean Canvas
 
-***
-
 <table>
   <tr>
     <td rowspan="2">
-      <b>Problem</b>
+      <b>*_Problem_*</b>
       <p>Top 3 Problems</p>
     </td>
     <td>
